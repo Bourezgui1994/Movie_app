@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+.App {
+  text-align: center;
+  background-color: #2e384b;
+  color: #61dafb;
+  min-height: 120vh ;
+  overflow-x: hidden;
+}
+
+h3{
+  font-family: 'Pattaya', sans-serif;
+  color: #61dafb;
+  margin-left: 250px;
+}
+
+Form {
+  width: 100vh;
+  margin-left: 100px;
+  
+}
+
+
+
+.App .btn {
+  background-color:#61dafb ;
+  border: #61dafb;
+  margin-left: 20px;
+}
+
+.cardGroup {
+  
+  display: flex;
+  flex-wrap: wrap; 
+
+}
+
+.formGroup{
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+}
+
+.cardMovie {
+  width: 19rem;
+  margin :100px 50px 10px 70px;
+}
+
+
